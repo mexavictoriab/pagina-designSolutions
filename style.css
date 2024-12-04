@@ -1,0 +1,108 @@
+body{
+    background-color: #FFF7F0;
+    color: #030303;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img{
+    width: 64px;
+    aspect-ratio: 1;
+}
+
+#call-to-action{
+    background-color: #030303;
+    color: #FFF7F0;
+    text-decoration: none;
+    padding: 14px 45px;
+    border-radius: 28px;
+}
+
+.text-content{
+    text-align: center;
+}
+
+h1{
+    font-size: 56px;
+    margin-bottom: 22px;
+}
+
+.text-content p{
+    color: #7A746E;
+}
+
+.image-container{
+    display:flex;
+    gap: 24px;
+    
+}
+
+
+.image-container a{
+    width:354px;
+    height:364px;
+    flex-basis: 100%;
+}
+
+.card-graphic {
+    background-color: #755CDE;
+    background-image: url(/imagenes/ilustracion-violet.svg);
+    background-repeat: no-repeat;
+    background-position: top 24px right 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    position: relative;
+}
+
+.card-graphic h2{
+    color: #FFF7F0;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 24px;
+    left: 24px;
+    
+}
+
+.card-illustrations{
+    background-color: #EB7565;
+    background-image: url(/imagenes/ilustracion-orange.svg);
+    background-repeat: no-repeat;
+    background-position: top 24px right 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    position: relative;
+}
+
+.card-illustrations h2{
+    color: #FFF7F0;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 24px;
+    left: 24px;
+}
+
+.card-photography{
+    background-color: #61C4B7;
+    background-image: url(/imagenes/ilustracion-blue.svg);
+    background-repeat: no-repeat;
+    background-position: top 24px right 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    position: relative;
+}
+
+.card-photography h2{
+        color: #FFF7F0;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 24px;
+    left: 24px;
+}

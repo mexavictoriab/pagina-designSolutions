@@ -1,0 +1,26 @@
+<svg width="87" height="217" viewBox="0 0 87 217" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="43.3295" y="43.3295" width="5.41618" height="5.41618" transform="matrix(0 -1 1 0 0 86.6589)" fill="#030303"/>
+<rect x="43.3295" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 43.3295 24.3728)" fill="#030303"/>
+<rect x="43.3295" y="5.41614" width="5.41618" height="5.41618" transform="rotate(-90 43.3295 5.41614)" fill="#030303"/>
+<rect x="75.8266" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 75.8266 43.3295)" fill="#030303"/>
+<rect x="75.8266" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 75.8266 24.3728)" fill="#030303"/>
+<rect x="75.8266" y="5.41614" width="5.41618" height="5.41618" transform="rotate(-90 75.8266 5.41614)" fill="#030303"/>
+<rect x="81.2428" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 81.2428 43.3295)" fill="#030303"/>
+<rect x="81.2428" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 81.2428 24.3728)" fill="#030303"/>
+<rect x="81.2428" y="5.41614" width="5.41618" height="5.41618" transform="rotate(-90 81.2428 5.41614)" fill="#030303"/>
+<rect y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 0 43.3295)" fill="#030303"/>
+<rect y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 0 24.3728)" fill="#030303"/>
+<rect y="5.41614" width="5.41618" height="5.41618" transform="rotate(-90 0 5.41614)" fill="#030303"/>
+<rect x="5.41618" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 5.41618 43.3295)" fill="#030303"/>
+<rect x="5.41617" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 5.41617 24.3728)" fill="#030303"/>
+<rect x="5.41617" y="5.41614" width="5.41618" height="5.41618" transform="rotate(-90 5.41617 5.41614)" fill="#030303"/>
+<rect x="37.9133" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 37.9133 43.3295)" fill="#030303"/>
+<rect x="37.9133" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 37.9133 24.3728)" fill="#030303"/>
+<rect x="37.9133" y="5.41614" width="5.41618" height="5.41618" transform="rotate(-90 37.9133 5.41614)" fill="#030303"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.3295 86.6589L0 43.3295L43.3295 43.3295L43.3295 86.6589Z" fill="#FFF7F0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.3295 86.6589L86.6589 43.3295L43.3295 43.3295L43.3295 86.6589Z" fill="#552049"/>
+<circle cx="21.6647" cy="195.324" r="19.6647" transform="rotate(-90 21.6647 195.324)" stroke="#030303" stroke-width="4"/>
+<rect y="173.659" width="86.6589" height="86.6589" transform="rotate(-90 0 173.659)" fill="#EB7565"/>
+<circle cx="43.3295" cy="130.329" r="19.6647" transform="rotate(-90 43.3295 130.329)" stroke="#FFF7F0" stroke-width="4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M86.6589 173.659L43.3295 216.988H86.6589V173.659Z" fill="#F39E9E"/>
+</svg>

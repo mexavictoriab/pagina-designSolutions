@@ -51,7 +51,7 @@ h1{
 
 .card-graphic {
     background-color: #755CDE;
-    background-image: url(/imagenes/ilustracion-violet.svg);
+    background-image: url(./imagenes/ilustracion-violet.svg);
     background-repeat: no-repeat;
     background-position: top 24px right 24px;
     border-radius: 8px;
@@ -71,7 +71,7 @@ h1{
 
 .card-illustrations{
     background-color: #EB7565;
-    background-image: url(/imagenes/ilustracion-orange.svg);
+    background-image: url(./imagenes/ilustracion-orange.svg);
     background-repeat: no-repeat;
     background-position: top 24px right 24px;
     border-radius: 8px;
@@ -90,7 +90,7 @@ h1{
 
 .card-photography{
     background-color: #61C4B7;
-    background-image: url(/imagenes/ilustracion-blue.svg);
+    background-image: url(./imagenes/ilustracion-blue.svg);
     background-repeat: no-repeat;
     background-position: top 24px right 24px;
     border-radius: 8px;

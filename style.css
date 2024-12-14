@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     background-color: #FFF7F0;
     color: #030303;
@@ -34,12 +39,15 @@ h1{
 
 .text-content p{
     color: #7A746E;
+    margin-bottom: 80px;
 }
 
 .image-container{
-    display:flex;
+    /*display:flex;*/
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 24px;
-    
+    margin-bottom: 150px;
 }
 
 
@@ -99,7 +107,7 @@ h1{
 }
 
 .card-photography h2{
-        color: #FFF7F0;
+    color: #FFF7F0;
     font-size: 24px;
     font-weight: 700;
     position: absolute;

@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Design solutions</title>
 </head>
 <body>
     <nav>
@@ -15,37 +16,81 @@
         <img src="logo.svg" alt="logo design solutions">
         </a>
 
-        <a href="#" id="call-to-action">Free Consultation</a>
+        <a href="#" id="call-to-action" class="button">Free Consultation</a>
     </nav>
 
-    <section id="hero">
+    <section class="hero">
         <div class="text-content">
             <h1>Design solutions made easy</h1>
             <p>With over ten years of experience in various design disciplines, I’m your one-stop shop for your design needs.</p>
         </div>
+
         <div class="image-container">
 
-            <a href="#" class="card-graphic">
+            <a href="#" class="card">
+                <img src="ilustracion-violet.svg" alt="">
                 <h2>Graphic Design</h2>
             </a>
 
-            <a href="#" class="card-illustrations">
+            <a href="#" class="card">
+                <img src="ilustracion-yellow.png" alt="">
+                <h2>UI/UX</h2>
+            </a>
+
+            <a href="#" class="card">
+                <img src="ilustracion-pink.png" alt="">
+                <h2>Apps</h2>
+            </a>
+
+            <a href="#" class="card">
+                <img src="ilustracion-orange.svg" alt="">
                 <h2>Illustrations</h2>
             </a>
 
-            <a href="#" class="card-photography">
+            <a href="#" class="card">
+                <img src="ilustracion-blue.svg" alt="">
                 <h2>Photography</h2>
+            </a>
+
+            <a href="#" class="card">
+                <img src="ilustracion-purple.png" alt="">
+                <h2>Motion Graphics</h2>
             </a>
         </div>
     </section>
-    <section>
-        <div>
-            <img src="amy-image.png" alt="">
-        </div>
-        <div>
+    <section class="amy">
+        <img src="amy-image.png" alt="Amy photo">
+        <div class="amy-text">
             <h2>I’m Amy, and I’d love to work on your next project</h2>
-            <p>I love working with others to create beautiful design solutions. I’ve designed everything from brand illustrations to complete mobile apps. I’m also handy with a camera!</p>
-            <a href="#" class="call-to-action-secundario">Free Consultation</a>
+            <p>I love working with others to create beautiful design solutions. <br> I’ve designed everything from brand illustrations to complete mobile apps. I’m also handy with a camera!</p>
+            <a href="#" class="button button-red">Free Consultation</a>
+        </div>
+    </section>
+
+    <section class="my-work">
+        <h2>My work</h2>
+        <div class="image-carousel">
+            <img src="image-morada.png" alt="Image 1">
+            <img src="image-colores.png" alt="Image 2">
+            <img src="image-gris.png" alt="Image 3">
+            <div class="carousel-controls">
+                <span class="bi-arrow-left button"></span>
+                <span class="bi-arrow-right button"></span>
+            </div>
+        </div>
+    </section>
+
+    <section class="call-me">
+        <div class="card">
+            <div class="text-block">
+                <h2>Book a call with me</h2>
+                <p>I’d love to have a chat to see how I can help you. The best first step is for us to discuss your project during a free consultation. Then we can move forward from there.</p>
+            </div>
+            <a href="#" class="button button-red">Free Consultation</a>
+        </div>
+        <div class="call-me-bottom">
+            <img src="logo.svg" alt="logo design solutions">
+            <a href="#" class="button">Free consultation</a>
         </div>
     </section>
 </body>
